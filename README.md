@@ -103,7 +103,3 @@ npm run dev
 - Sequelize
 - JSON Web Token
 - bcryptjs
-
-## License
-
-MIT
