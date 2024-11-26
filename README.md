@@ -45,7 +45,7 @@ npm run dev
 
 ## Database Structure
 
-![ER Diagram](path/to/er-diagram.png)
+![ER Diagram](ER/ER.png)
 
 ### Tables
 - Users: เก็บข้อมูลผู้ใช้และสถิติ
